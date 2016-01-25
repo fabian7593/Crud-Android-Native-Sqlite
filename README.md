@@ -1,11 +1,14 @@
 # [CRUD Android Native SQLite](https://github.com/fabian7593/Crud-Android-Native-Sqlite)
 
 This is an example of Create, Read, Update and Delete of SQLite native databases of Android.
+<br><br>
 
 ## SDK
 * It requires **14+ API**.
 * The compile version is **API 23**.
 * It requires **android support v7 (Toolbar)**.
+
+<br><br>
 
 ## Getting Started
 
@@ -18,7 +21,7 @@ git clone https://github.com/fabian7593/Crud-Android-Native-Sqlite.git
 
 Or download from [Here](https://github.com/fabian7593/Crud-Android-Native-Sqlite/zipball/master)
 
-
+<br><br>
 ### Usage
 
 ####Description Example
@@ -37,17 +40,17 @@ You have an activity for create categories, this have the name and the respectiv
 ####Movie
 You have an activity for create movies, this have the name, the number of movies in stock and the respective Category.
 
-
-###Documentation
+<br><br>
+##Documentation
 All the code has a internal documentation for more explanation of this example.
-
+<br><br>
 ##Preview of Example
 
-
+<br><br>
 ## License
 Source code can be found on [github](https://github.com/fabian7593/Crud-Android-Native-Sqlite)<br>
 Licenced under [APACHE](http://www.apache.org/licenses/LICENSE-2.0).
-
+<br><br>
 ## About Developer
 Developed by [Fabian Rosales](www.frosquivel.com)<br>
 Known as [Frosquivel Developer](www.frosquivel.com)<br>
