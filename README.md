@@ -54,7 +54,7 @@ Source code can be found on [github](https://github.com/fabian7593/Crud-Android-
 Licenced under [APACHE](http://www.apache.org/licenses/LICENSE-2.0).
 <br><br>
 ## About Developer
-Developed by [Fabian Rosales](www.frosquivel.com)<br>
-Known as [Frosquivel Developer](www.frosquivel.com)<br>
-Web Page [www.frosquivel.com](www.frosquivel.com)<br>
-Blog (Spanish) [www.frosquivel.com/blog](www.frosquivel.com/blog)<br>
+Developed by [Fabian Rosales](http://www.frosquivel.com)<br>
+Known as [Frosquivel Developer](http://www.frosquivel.com)<br>
+Web Page [www.frosquivel.com](http://www.frosquivel.com)<br>
+Blog (Spanish) [www.frosquivel.com/blog](http://www.frosquivel.com/blog)<br>
