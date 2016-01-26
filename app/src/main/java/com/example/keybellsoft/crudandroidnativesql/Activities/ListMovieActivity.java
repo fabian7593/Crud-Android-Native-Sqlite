@@ -18,9 +18,11 @@ import java.util.ArrayList;
 
 
 /**
- * Created by Fabian Rosales Esquivel on 10/11/2015.
+ * Created by Fabian Rosales Esquivel - Frosquivel Developer on 10/11/2015.
  * Please contact me at www.frosquivel.com
+ * Blog fabian7593@gmail.com/blog
  * fabian7593@gmail.com
+ * Copyright © 2016 KeyBellSoftCR. All rights reserved.
  */
 
 public class ListMovieActivity extends AppCompatActivity {
